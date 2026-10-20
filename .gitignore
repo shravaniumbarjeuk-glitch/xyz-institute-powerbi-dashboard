@@ -1,0 +1,8 @@
+# The Power BI file embeds the supplied dataset, so it stays out of the repository
+*.pbix
+*.csv
+*.xls
+*.xlsx
+Thumbs.db
+.DS_Store
+~*
